@@ -6,4 +6,7 @@ Ahora, cuando se realiza una venta, el sistema procesa la información automáti
 
 | Tecnología           | Información            | Datos                 | Proceso                    | Persona      |
 |----------------------|------------------------|-----------------------|-----------------------------|--------------|
-| Computadora          | Reporte diario         | Código del producto   | Registro de venta           |
+| Computadora          | Reporte diario         | Código del producto   | Registro de venta           | Administrador|
+| Punto de venta       | Inventario actualizado | Productos solicitados | Generación de factura       | Supervisor   |
+| Lector de códigos    | Factura digital        | Existencias           | Descuento automático        | Operador     |
+| Impresora            | Productos más vendidos | —                     | Cálculo total               | Cliente      |  
